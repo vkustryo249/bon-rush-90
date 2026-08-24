@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://bon-rush-90.onrender.com/sitemap.xml
+Sitemap: https://bon-rush-90-v1tt.onrender.com/sitemap.xml
